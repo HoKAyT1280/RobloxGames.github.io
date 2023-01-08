@@ -1,0 +1,12 @@
+body{
+    background-image: url(images/tds.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+header,main{
+    background-color: ghostwhite;
+}
+h1{
+position: relative;
+left:45%
+}

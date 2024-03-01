@@ -1,23 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="tds.css">
-    <title>Document</title>
-</head>
-<body>
-    <header>
-        <article>
-        <h1>Tower defence simulator</h1>
-        </article>
-    </header>
-    <main>
-        <nav>
-        <p>Вы также можете ознакомиться с другими статьями</p>
-        <a href="index.html">Zo samurai</a>
-        </nav>
-        </main>    
-</body>
-</html>
+body{
+    background-image: url(images/tds.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+header,main{
+    background-color: ghostwhite;
+}
+h1{
+position: relative;
+left:45%
+)
